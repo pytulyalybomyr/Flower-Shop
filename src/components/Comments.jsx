@@ -14,31 +14,31 @@ SwiperCore.use([Autoplay]);
 export default function Comments() {
     const list = [
         {
-            logo: '../img/comments/atena.png',
+            logo: '../img/Comments/atena.png',
             name: 'Atena',
             text: 'I’m buying flower from them every weak, always fresh flowers and beutiful😍🌻... love’em so nuch..keep going 💯💯',
             stars: 4,
         },
         {
-            logo: '../img/comments/boy.png',
+            logo: '../img/Comments/boy.png',
             name: 'pop Boy',
             text: 'I get flowers from them for my baby mama, she love them so much 🔥💯',
             stars: 5,
         },
         {
-            logo: '../img/comments/girl.png',
+            logo: '../img/Comments/girl.png',
             name: 'Young Girl4',
             text: "Drip too hard, don't stand too close You gon' fuck around and drown off this wave",
             stars: 5,
         },
         {
-            logo: '../img/comments/girl.png',
+            logo: '../img/Comments/girl.png',
             name: 'Young Girl4',
             text: "Drip too hard, don't stand too close You gon' fuck around and drown off this wave",
             stars: 5,
         },
         {
-            logo: '../img/comments/girl.png',
+            logo: '../img/Comments/girl.png',
             name: 'Young Girl3',
             text: "Drip too hard, don't stand too close You gon' fuck around and drown off this wave",
             stars: 5,
